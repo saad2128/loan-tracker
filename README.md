@@ -1,4 +1,4 @@
-# 💰 Enhanced Personal Loan Tracker - Pakistan Edition
+# 💰 Personal Loan Tracker - Pakistan Edition
 
 A comprehensive, professional-grade loan tracking system built for Google Sheets with unlimited payment tracking, live dashboard analytics, and full Pakistani currency support.
 
